@@ -1,0 +1,42 @@
+.home-page{
+    background: #25a6d9;
+    height: 100vh;
+    overflow: hidden;
+}
+.service-list{
+
+}
+.service-list-element{
+    width: 96%;
+    text-align: center;
+    margin: 7px;
+}
+.service-list-element-1{
+    margin-top: 12vh;
+}
+.sms-page{
+    background: #25a6d9;
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.sms{
+    width: 96%;
+    margin: 7px;
+}
+.sms-mobile{
+    margin-top: 13vh;
+    width: 94%;
+    height: 25px;
+    font-size: 16px;
+}
+.sms-massage{
+    width: 94%;
+    height: 50vh;
+    font-size: 16px;
+}
+.sms-send{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}

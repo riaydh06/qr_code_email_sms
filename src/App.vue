@@ -5,13 +5,11 @@
 </template>
 
 <script>
-  import page1 from './Page1';
-  import page2 from './Page2';
-
+  import Home from './Home';
   export default {
     data() {
       return {
-        pageStack: [page1]
+        pageStack: [Home]
       }
     }
   }
